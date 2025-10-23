@@ -2,10 +2,6 @@
 
 In this repo, you can find the n8n templates we created for the episodes of [AI Agents A-Z](https://www.youtube.com/channel/UCloXqLhp_KGhHBe1kwaL2Tg).
 
-## [📚 Join our Skool community for support, premium content and more!](https://www.skool.com/ai-agents-az/about)
-
-### Be part of a growing community and help us create more content
-
 ## Season 1
 
 - [Episode 1: Creating a prescription agent](episode_1)
@@ -28,6 +24,12 @@ In this repo, you can find the n8n templates we created for the episodes of [AI 
 - [Episode 18: Scary story TikTok videos workflow](episode_18)
 - [Episode 19: Run FLUX.1 Kontext [dev] with modal.com](episode_19)
 - [Episode 20: Use Wan 2.2, ComfyUI and n8n to generate videos for free](episode_20)
+- [Episode 21: 10 EASY faceless niches that pay well - monetize in a MONTH (2025)](episode_21)
+- [Episode 22: Sleep long-form videos with GPT-5, ElevenMusic, Imagen4, Seendance and n8n](episode_22)
+- [Episode 23: UGC videos with nanobanana and n8n](episode_23)
+- [Episode 24: generate images with Qwen Image, Flux.1 [dev] and Flux.1 Schnell with modal.com and Cloudflare Workers AI](episode_24)
+- [Episode 25: Fal.ai n8n subworkflows for Qwen Image Edit Plus and Wan 2.2 animate](episode_25)
+- [Episode 31: Veo 3.1 is now in n8n - how to use it for FREE](episode_31)
 
 ## servers
 
